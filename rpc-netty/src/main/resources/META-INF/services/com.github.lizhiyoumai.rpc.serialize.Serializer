@@ -1,0 +1,3 @@
+com.github.lizhiyoumai.rpc.serialize.impl.MetadataSerializer
+com.github.lizhiyoumai.rpc.serialize.impl.StringSerializer
+com.github.lizhiyoumai.rpc.serialize.impl.RpcRequestSerializer
